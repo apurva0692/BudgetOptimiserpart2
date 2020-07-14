@@ -1,0 +1,38 @@
+html{
+    margin:200px;
+    padding:200px;
+    background-color: aqua
+    
+
+
+}
+h1{
+    padding-left:500px;
+    padding-right:500px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-color:black;
+    background-color:royalblue;
+    display: flex;
+    justify-content: space-between;
+    margin:30px;
+
+}
+.investcolor{
+
+    color:red
+}
+var{
+    color:red
+}
+h2{
+    font:"Times New Roman";
+    scale:0.5
+}
+
+.button{
+
+    scale: 1.10;
+
+}
+
